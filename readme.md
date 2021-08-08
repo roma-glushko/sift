@@ -2,9 +2,9 @@
 
 Sift is a NLP library for normalizing real-world text based on the statistic language model.
 
-Sift focuses on two main cases
+Sift focuses on two main cases:
 
-- split words
+- joined words
 - words written with typos 
 
 ## Resources
